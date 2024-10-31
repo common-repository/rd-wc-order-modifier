@@ -1,0 +1,26 @@
+.item_cost_incl .wc-order-item-discount {
+    display: block;
+    margin-top: .5em;
+    font-size: .92em!important;
+    color: #888;
+    white-space: nowrap;
+}
+
+.item_total_incl .wc-order-item-discount {
+    display: block;
+    margin-top: .5em;
+    font-size: .92em!important;
+    color: #888;
+    white-space: nowrap;
+}
+
+#adminmenu #toplevel_page_robot-dwarf-menu div.wp-menu-image img {
+    width: 20px;
+    margin-top: -7px;
+}
+
+.rdwcom-upgrade-list {
+    list-style-type: disc; 
+    list-style-position: inside; 
+    padding-left: 2em;
+}
